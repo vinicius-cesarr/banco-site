@@ -1,0 +1,26 @@
+#main{
+    background-color: #ffc107;
+    color: white;
+}
+.links li a:hover{
+    color: white;
+    transition: 0.5s;
+    text-decoration: underline;
+}
+
+.caixa{
+    padding: 60px 0;
+    border-bottom: 1px solid #e5e5e5 ;
+}
+
+footer p a{
+    margin: 10px 15px;
+    text-decoration: none;
+    color: black;
+}
+
+footer p a:hover{
+    color: rgb(5, 35, 90);
+    transition: 0.5s;
+    text-decoration: underline;
+}
